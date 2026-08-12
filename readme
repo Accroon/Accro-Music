@@ -1,0 +1,12 @@
+This project was inspired by CSVMusic(another open source tool to do basically the same thing Accro-Music does).
+
+Launch the app Paste a spotify track url, Playlist url or an album url. chose the bitrate, Format for the song/songs or the volume of the songs/song and some other stuffs.
+
+First released version is "1, 0, 0, 157" with autoupdates already implemented.
+
+Current Date : Wednesday 12 2026
+
+Project Duration : 3+ days
+
+Project build with : Python, C++, Psl scripts
+
