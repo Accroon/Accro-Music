@@ -1,3 +1,18 @@
-v1.0.0.157 Notes :
+**First Released Version **
 
-1. for example nothing
+v1.0.0.157 Notes:
+
+1. Core mechanism implemented.
+2. UI design is almost finished.
+3. Logo and Icon have been made.
+4. Uninstaller has been implemented.
+5. Autoupdates machanism has been implemented.
+6. All Dependencies have been packed into the exe.
+
+Related Bugs:
+
+1. Seen some issues where it downloads long form song instead of downloading the song with the right duration.
+2. A bug where for some reason few messageboxes show up twice.
+3. Icon size is always being shown as smaller compare to uninstaller.exe icon. Even though they are made with the same sizes.
+4. For some reason some songs cannot be downloaded if its not that popular.
+5. It still cannot download every type of playlists provided by Spotify. For example : artist playlists
