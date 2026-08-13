@@ -6,7 +6,27 @@ First released version is "1, 0, 0, 157" with autoupdates already implemented.
 
 Current Date : Wednesday 12 2026
 
-Project Duration : 3+ days
+Project Duration : 5+ days
 
 Project build with : Python, C++, Psl scripts
+
+Dependencies: FFMpeg, FFProbe, yt-dlp, Selenium, Python
+
+Total code lines : 5466+/- (C++)
+
+Total code lines : 2980+/- (Python)
+
+Total functions in C++ : 1544+/-
+
+Total functions in Python : 1252+/-
+
+Uninstaller Code lines : 472
+
+Uninstaller made in : C++
+
+Icon designed by : Accro
+
+Uninstaller Icon designed by : Accro
+
+Project made by : Accro
 
