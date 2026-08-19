@@ -3,7 +3,9 @@ v1.0.0.527 Notes :
 1. Added Songs limiter to manage large playlists.
 2. Added Custom Songs selector for playlists.
 3. Fixed the bug where Accro-Music sometimes failed to download tracks due to rate limiting.
-4. Fixed a bug where if Accro-Music hung it released a python process instead of staying attached.
+4. Fixed a bug where if Accro-Music hung it released a python process instead of staying attached.5
+5. Fixed some issues related to loading covers.
+6. Fixed an issue where the app spawned ghost processes if closed instantly.
 
 
 
