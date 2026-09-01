@@ -1,3 +1,13 @@
+v1.0.1.0 Notes :
+
+1. Added VM-Protection.
+2. Fixed an issue where when downloading single track it failed to show the cover on the list properly.
+3. Added Sha256 verification checks.
+4. Few other issues were fixed.
+
+Note: Due to VM app may launch with a delay. If windows defender nukes the exe restore it back.
+
+
 v1.0.0.527 Notes :
 
 1. Added Songs limiter to manage large playlists.
