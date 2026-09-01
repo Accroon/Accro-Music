@@ -4,8 +4,36 @@ Launch the app Paste a spotify track url, Playlist url or an album url. chose th
 
 First released version is "1, 0, 0, 157" with autoupdates already implemented.
 
+Current Date : September 01 2026
 
-Current Date : Wednesday 19 2026
+Version : 1.0.1.0
+
+Project Duration : 3 weeks
+
+Project build with : Python, C++, Psl scripts
+
+Dependencies: FFMpeg, FFProbe, yt-dlp, Selenium, Python
+
+Total code lines : 200k (C++ + Base64 + XOR Encryption)
+
+Total code lines : 2991 (Python)
+
+Total functions in C++ : 1675
+
+Total functions in Python : 1305
+
+Uninstaller Code lines : 472
+
+Uninstaller made in : C++
+
+Icon designed by : Accro
+
+Uninstaller Icon designed by : Accro
+
+
+..........................................................................................................................................
+
+Current Date : August 19 2026
 
 Version : 1.0.0.527
 
@@ -34,7 +62,7 @@ Uninstaller Icon designed by : Accro
 
 ..........................................................................................................................................
 
-Current Date : Wednesday 12 2026
+Current Date : August 12 2026
 
 Version : 1.0.0.157
 
